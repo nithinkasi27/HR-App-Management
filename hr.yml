@@ -23,7 +23,7 @@ spec:
         - name: MONGODB_URI
           value: "mongodb://rootuser:rootpassword@localhost:27017/hr_system?authSource=rootuser"
         - name: PORT
-          value: "3000"
+          value: "5000"
         - name: HOST
           value: "0.0.0.0"
         - name: NODE_ENV
